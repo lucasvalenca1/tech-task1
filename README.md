@@ -31,7 +31,7 @@ Enable country selection from a predefined country list
 - Follow Test-Driven Development (TDD) principles
 - Apply Domain-Driven Design (DDD) best practices
 - Ensure code quality, readability, and maintainability
-- 
+  
 ### Notes:
 - Your submission will be evaluated based on code quality, adherence to best practices, and completeness of the task
 - Thank you and good luck!
