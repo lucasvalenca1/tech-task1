@@ -35,3 +35,11 @@ Enable country selection from a predefined country list
 -   Follow Test-Driven Development (TDD) principles
 -   Apply Domain-Driven Design (DDD) best practices
 -   Ensure code quality, readability, and maintainability
+
+# Stage the modified README.md
+
+git add README.md
+
+# Commit the README changes
+
+git commit -m "Add/Update README.md"
